@@ -1,5 +1,6 @@
 # ensure LF instead of CRLF (https://stackoverflow.com/a/1552775)
 # ensure binaries are stored in LFS (https://stackoverflow.com/a/68623227)
+# for the above, run `git lfs install` once per user account
 
 * text=auto
 
