@@ -1,3 +1,8 @@
+## GitHub Actions publishes a generated pdf in gh-pages
+/*.pdf
+
+## Default TeX .gitignore template below this line
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
